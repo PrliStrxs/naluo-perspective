@@ -39,7 +39,7 @@ naluo-perspective/
     ├── background-and-lore.md        # 世界观设定、官方数据核对与即兴编造档案
     ├── validation-and-testing-history.md # 11轮实战测试、盲评与打分全历史
     ├── research/                     # 表达DNA、决策启发式、溯源笔记
-    └── sources/                      # 664 句真实对白逐字稿与抓包日志
+    └── sources/                      # 664 句真实对白实机多轮对话逐字稿
 ```
 
 ---

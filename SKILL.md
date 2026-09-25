@@ -193,10 +193,10 @@ description: |
 - `references/sources/transcript-player-emotions-2026-09-24.md` —— 玩家个人心情陪伴与情感共振实测（20 轮 / 54 句）
 - `references/sources/transcript-20rounds-dynamic-2026-09-24.md` —— 20 轮动态自适应深度访谈实录（67 句）
 - `references/sources/transcript-5groups-2026-09-24.md` —— 5 组 50 轮全自动攻防对抗实测（110 句）
-- `references/sources/transcript-chat1-2026-09-24.md` —— 实战抓包会话 naluo_chat1（92 句）
+- `references/sources/transcript-chat1-2026-09-24.md` —— 游戏实机验证会话（会话 1 / 92 句）
 - `references/sources/interview-round2-2026-09-23.md` —— 定向采集第二轮
 - `references/sources/transcript-live-2026-09-23.md` —— 14 轮定向访谈（37 句）
-- `references/sources/transcript-demo2-2026-09-22.md` —— 官方捕获逐字稿（26 句）
+- `references/sources/transcript-demo2-2026-09-22.md` —— 游戏实机对话逐字稿（26 句）
 
 ### 二手来源（设定与观察）
 - `references/coffee-menu.md` —— 野咖啡正典菜单、碎币定价、定制规格与点单话术规范

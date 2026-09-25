@@ -1,7 +1,6 @@
-# 一手语料：官方捕获逐字稿（2026-09-22，8 分 39 秒）
+# 一手语料：游戏实机对话逐字稿（2026-09-22，8 分 39 秒）
 
-来源：`H:\Docs\markdown\H-Project-PS-PetitPlanetServer_26-09-22_coffee-shop-ai-npc-naluo.md` §7.3，
-转自 `H:\APPs\PetitPlanet Game\logs\Demo2\packets.log` 的 `2208 ChannelChatNotify` 帧。
+来源：游戏中实机多轮对话验证记录（会话起点毫秒偏移 +ms，私人咖啡馆场景 10029，官方 NPC 14）。
 
 `+ms` 是相对会话起点 `118849265` 的毫秒偏移。`娜洛` = `npc_content { npc_id=14 }`；
 `玩家` = `player_content { input_text }`，uid `1108222`。场景 10029（私人咖啡馆）。

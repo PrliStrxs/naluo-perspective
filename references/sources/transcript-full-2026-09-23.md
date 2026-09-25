@@ -1,10 +1,10 @@
 # 娜洛语料（完整版）
 
-- 来源：`packets-backup-20260923-210319.log`（或 `hyg_official\packets.log`）
-  + `H:\APPs\PetitPlanet Game\logs\Demo2\packets.log`（官方捕获）
-  + `H:\APPs\PetitPlanet Game\logs\naluo_chat1\packets.log`（玩家实测抓包）
-- 提取方式：`cmd=2208 ChannelChatNotify` → `npc_content{npc_id=14}`，按 `sequence` 去重
-- 生成脚本：`_test/ingest-corpus.mjs`
+- 来源：游戏中多轮实机对话验证数据（共 9 段完整会话）
+  + 会话 1：初次到访与闲聊实测
+  + 会话 2：长程记忆与八款咖啡对话实测
+- 提取方式：游戏对白消息提取（NPC ID 14），按序号严格去重校验
+- 整理说明：实测数据分层标记
 
 > `[自然]` = 玩家自由对话；`[采集]` = 我用程序化注入的访谈题（考试态）。
 > 两种语域的语气词密度**不一样**，统计时必须分开算 —— 这是上一版 skill 最大的错误来源。
